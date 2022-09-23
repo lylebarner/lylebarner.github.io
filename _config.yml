@@ -16,9 +16,9 @@
 title: LB
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I am a software assurance engineer living in Los Angeles, CA and currently working at NASA's Jet Propulsion Laboratory. I have a MSE in Software Engineering and 10 years of industry experience in software development and data analysis.
+You can find some of my work on GitHub as the lead developer of SCRUB, a Python tool for orchestration of static code analysis tools. In addition to my assurance and development work, I also explore reserach opportunities in the areas of static code analysis and cybersecurity. 
+In my personal time I like to play guitar, spend time with my family, and cook. 
 # twitter_username: username
 github_username: lylebarner
 minimal_mistakes_skin: default
@@ -77,15 +77,18 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://lylebarner.com"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/"
 
 defaults:
   # _posts
