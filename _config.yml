@@ -14,14 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: LB
-email:
+email: lyle.barner@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-I am a software assurance engineer living in Los Angeles, CA and currently working at NASA's Jet Propulsion Laboratory. I have a MSE in Software Engineering and 10 years of industry experience in software development and data analysis.
-You can find some of my work on GitHub as the lead developer of SCRUB, a Python tool for orchestration of static code analysis tools. In addition to my assurance and development work, I also explore reserach opportunities in the areas of static code analysis and cybersecurity. 
-In my personal time I like to play guitar, spend time with my family, and cook. 
+  I am a software assurance engineer living in Los Angeles, CA and currently working at NASA's Jet Propulsion Laboratory. I have an MSE in Software Engineering and 10 years of industry experience in software development and data analysis. You can find some of my work on GitHub as the lead developer of SCRUB, a Python tool for orchestration of static code analysis tools. In addition to my assurance and development work, I also explore reserach opportunities in the areas of static code analysis and cybersecurity. In my personal time I like to play guitar, spend time with my family, and cook. 
 # twitter_username: username
 github_username: lylebarner
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
