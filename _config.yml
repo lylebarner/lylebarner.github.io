@@ -23,7 +23,7 @@ resume_contact_address:         "Los Angeles, CA"
 resume_header_contact_info:     "Los Angeles, CA • lyle.barner@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a passionate and experienced Software Assurance Researcher at the Jet Propulsion Laboratory working and living in Los Angeles, CA. I have over 10 years experience in aerospace spanning a wide range of software disciplines. I am experienced in crafting proposals, leading research teams, and providing briefings to stakeholders. I have a long track record of success and enjoy finding creative solutions to difficult problems. My current research interests are in the areas of cybersecurity and data science.<br\>In my spare time I enjoy writing music, mentoring aspiring engineers, and spending time with my family.</p>"
+resume_header_intro: "<p>I am a passionate and experienced Software Assurance Researcher at the Jet Propulsion Laboratory working and living in Los Angeles, CA. I have over 10 years experience in aerospace spanning a wide range of software disciplines. I am experienced in crafting proposals, leading research teams, and providing briefings to stakeholders. I have a long track record of success and enjoy finding creative solutions to difficult problems. My current research interests are in the areas of cybersecurity and data science.</br>In my spare time I enjoy writing music, mentoring aspiring engineers, and spending time with my family.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
