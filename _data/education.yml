@@ -1,13 +1,19 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: MS Data Science Engineering
+  uni: UCLA
+  year: 2023 &mdash; 2025
   awards:
-    - award: Summa Cumme Laude graduate
+    - award: 
   summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: MS Software Engineering
+  uni: Penn State University
+  year: 2014 &mdash; 2016
+  award: 
+  summary: 
+
+- degree: BS Electrical Engineering
+  uni: Penn State University
+  year: 2007 &mdash; 2011
+  award: 
+  summary: 
