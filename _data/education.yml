@@ -4,16 +4,18 @@
   year: 2023 &mdash; 2025
   awards:
   summary:
-  coursework: Neural Networks and Deep Learning, Natural Language Processing, Big Data Analytics Machine Learning Algorithms
+  coursework: Neural Networks and Deep Learning, Natural Language Processing, Big Data Analytics, Machine Learning Algorithms
 
 - degree: MS Software Engineering
   uni: Penn State University
   year: 2014 &mdash; 2016
   award: 
   summary: 
+  coursework: Software Design Patterns, Project Management, System Design, Database Design
 
 - degree: BS Electrical Engineering
   uni: Penn State University
   year: 2007 &mdash; 2011
   award: 
   summary: 
+  coursework: Control Systems, Digital Signal Processing, Communication Systems, Computer Vision
