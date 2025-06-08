@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
+
+- project: Software Bill of Materials (SBOM)
+  role: Pricipal Investigator
+  duration: Dec. 2023 &mdash; Present
+  # url: "#"
+  description: Investigating tools and techniques for generating SBOM data as it applies to the JPL mission software environment. The first phase of research focused on developing a proof-of-concept toolchain for analyzing dependency quality using continuous integration. In the second phase the team is working to establish recommended guidance for software supply chain risk management leveraging SBOM data.
+
+- project: Automated Analysis Techniques
+  role: Lead Analyst
+  duration: 2018 &mdash; Present
+  # url: "#"
+  description: Currently leading a team of 3-5 engineers in championing automated analysis techniques to improve software quality. My team has analyzed benchmarking data to determine the efficiency of various tools and how they can be best utilized. This also includes more specialized techniques such as examining the usage and effectiveness of binary analysis tools for scenarios where source code is not available to review
+
 - project: Secure Coding Guideline
   role: Pricipal Investigator
   duration: Oct. 2018 &mdash; Sept. 2019
   # url: "#"
-  description: Combined NASA requirements and industry best practices to create an institutional-level secure coding guidance for use by all mission software development activities at JPL. This guidleine leveraged custom static code analysis configurations to verify compliance and streamline deployment. This framework also establishes automated data collection and analysis to inform future revisions.
+  description: Combined NASA requirements and industry best practices to define institutional-level secure coding guidance to be used by all critical software development activities at JPL. This guideline leveraged custom static code analysis configurations to verify compliance and streamline deployment. This framework also establishes automated data collection and analysis to inform future revisions.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
