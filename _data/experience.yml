@@ -3,17 +3,20 @@
 - company: NASA Jet Propulsion Laboratory
   position: Software Assurance Researcher, Full-Stack Developer
   duration: Oct, 2016 &mdash; Present
+  url: https://www.jpl.nasa.gov
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Director of Digital Stratgy
 - company: Northrop Grumman
   position: Modeling and Simulation Engineer
   duration:  Aug. 2014 &mdash; Oct. 2016
+  url: https://www.northropgrumman.com
   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
 
 # Communications Coordinator
-- company: Vencore
+- company: Peraton
   position: Systems Engineer
   duration:   Feb. 2012  &mdash; Aug. 2014
+  url: https://www.peraton.com
   summary: Researched, developed, and validated various orbital models and algorithms for advanced orbital simulation tools. Participated in cross-organizational proposal team responsible for pursuing large-scale opportunities with government partners.
