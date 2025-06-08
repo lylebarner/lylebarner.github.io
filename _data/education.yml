@@ -3,7 +3,8 @@
   uni: UCLA
   year: 2023 &mdash; 2025
   awards:
-  summary: <b>Notable Coursework: </b> Neural Networks and Deep Learning, Natural Language Processing, Big Data Analytics Machine Learning Algorithms
+  summary:
+  coursework: Neural Networks and Deep Learning, Natural Language Processing, Big Data Analytics Machine Learning Algorithms
 
 - degree: MS Software Engineering
   uni: Penn State University
