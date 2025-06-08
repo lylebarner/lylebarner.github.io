@@ -18,6 +18,7 @@
 
         <!-- Your name is defined in the _config.yml file -->
         <h1 class="header-name" itemprop="name">{{ site.resume_name }}</h1>
+        <h4> Active TS/SCI Security Clearance</h4>
 
         <!-- To display contact info here, change `display_header_contact_info` value in _config.yml to true -->
         {% if site.display_header_contact_info == 'true' %}
@@ -33,8 +34,6 @@
 
           <!-- This is the markup for the icon links; moved out to an include because it's very verbose, and you shouldn't ever need to edit the markup (unless you want to re-order the icons); if you want to customize which links appear, define them in the _config.yml file -->
           {% include icon-links.html %}
-
-          <h3> Active TS/SCI Security Clearance</h3>
         </div>
         
         <div class="executive-summary" itemprop="description">
