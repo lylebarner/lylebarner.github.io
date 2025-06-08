@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Secure Coding Guideline
+  role: Pricipal Investigator
+  duration: Oct. 2018 &mdash; Sept. 2019
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Combined NASA requirements and industry best practices to create an institutional-level secure coding guidance for use by all mission software development activities at JPL. This guidleine leveraged custom static code analysis configurations to verify compliance and streamline deployment. This framework also establishes automated data collection and analysis to inform future revisions.
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group
