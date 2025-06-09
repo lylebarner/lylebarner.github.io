@@ -4,9 +4,9 @@
   description: Python • Java • C/C++ • TypeScript/JavaScript • Node.js • SQL • R • Shell • Jupyter • MATLAB • Fortran
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Technologies
+  description: Linux • Docker • PyTorch • TensorFlow • Keras • GitHub • Electron • TestRail • Jira • Jenkins
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Standards
+  description: NIST 800.53 • AS9100
