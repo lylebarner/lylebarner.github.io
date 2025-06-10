@@ -12,6 +12,7 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Lyle Barner"
 resume_title:                   "Software Researcher"
+resume_subtitle:                "Great developer, better problem-solver"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lyle.barner@gmail.com"
