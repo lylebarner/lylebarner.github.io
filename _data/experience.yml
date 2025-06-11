@@ -11,7 +11,7 @@
   position: Modeling and Simulation Engineer
   duration:  Aug. 2014 &mdash; Oct. 2016
   url: https://www.northropgrumman.com
-  summary: I applied statistical modeling and <i>Monte Carlo analysis</i> to simulate complex air-to-air engagements, supporting <i>technology readiness assessments</i> of next generation air platforms. By leveraging <i>exploratory data analysis</i>, I identified key patterns and trends from large datasets. Through <i>data-driven storytelling</i> I communicated key findings and actionable insights to government partners during monthly review meetings. I implemented software enhancements to extend simulator functionality and developed validation plans to benchmark in-house simulation tools against commercial models.
+  summary: I applied statistical modeling and Monte Carlo analysis to simulate complex air-to-air engagements, supporting technology readiness assessments of next generation air platforms. By leveraging exploratory data analysis, I identified key patterns and trends from large datasets. Through data-driven storytelling I communicated key findings and actionable insights to government partners during monthly review meetings. I implemented software enhancements to extend simulator functionality and developed validation plans to benchmark in-house simulation tools against commercial models.
 
 
 # Communications Coordinator
@@ -19,4 +19,5 @@
   position: Systems Engineer
   duration:   Feb. 2012  &mdash; Aug. 2014
   url: https://www.peraton.com
-  summary: Researched, developed, and validated various orbital models and algorithms for advanced orbital simulation tools. Participated in cross-organizational proposal team responsible for pursuing large-scale opportunities with government partners.
+  summary: I researched and implemented a variety of orbital prediction algorithms to enhance proprietary simulation models. I also led the development of verification and validation plans to ensure accuracy, reliability, and alignment with mission requirements of high-fidelity simulation tools.
+  # summary: Researched, developed, and validated various orbital models and algorithms for advanced orbital simulation tools. Participated in cross-organizational proposal team responsible for pursuing large-scale opportunities with government partners.
