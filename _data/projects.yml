@@ -18,6 +18,7 @@
   role: Principal Investigator
   duration: Oct. 2018 &mdash; Sept. 2019
   # url: "#"
-  description: Combined NASA requirements and industry best practices to define institutional-level secure coding guidance to be used by all critical software development activities at JPL. This guideline leveraged custom static code analysis configurations to verify compliance and streamline deployment. This framework also establishes automated data collection and analysis to inform future revisions.
+  description: I spearheaded the development of an institutional-level Secure Coding Guideline, standardizing best practices across all mission-critical software development efforts. To enforce compliance, I built and tuned static code analysis pipelines, integrating custom rule sets to align with security policies and streamline DevSecOps workflows. Additionally, I performed threat intelligence analysis on vulnerability data from automated security scans, using risk prioritization and data-driven insights to surface critical issues and guide remediation strategies. This work enhanced software assurance, reduced attack surface, and supported secure software deployment at scale.
+  # description: Combined NASA requirements and industry best practices to define institutional-level secure coding guidance to be used by all critical software development activities at JPL. This guideline leveraged custom static code analysis configurations to verify compliance and streamline deployment. This framework also establishes automated data collection and analysis to inform future revisions.
 
 
