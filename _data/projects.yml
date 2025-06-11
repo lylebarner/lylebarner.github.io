@@ -6,7 +6,7 @@
   role: Pricipal Investigator
   duration: Dec. 2023 &mdash; Present
   # url: "#"
-  description: Investigating tools and techniques for generating SBOM data as it applies to the JPL mission software environment. The first phase of research focused on developing a proof-of-concept toolchain for analyzing dependency quality using continuous integration. In the second phase the team is working to establish recommended guidance for software supply chain risk management leveraging SBOM data.
+  description: Investigating tools and techniques for generating SBOM data as it applies to the JPL mission software environment. The first phase of research focused on developing a proof-of-concept toolchain for analyzing dependency quality using continuous integration. In the second phase I'm leading the team in establishing recommended guidance for software supply chain risk management leveraging SBOM data.
 
 - project: Automated Analysis Techniques
   role: Lead Analyst
