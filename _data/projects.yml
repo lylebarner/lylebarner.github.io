@@ -11,7 +11,7 @@
 
 - project: Automated Analysis Techniques
   role: Lead Analyst
-  duration: 2018 &mdash; Present
+  duration: Oct. 2018 &mdash; Present
   # url: "#"
   description: Currently leading a team of 3–5 engineers to deploy automated static and binary analysis initiatives aimed at enhancing software quality and security. We leverage benchmarking and performance metrics to evaluate tool effectiveness, optimize usage, and inform strategic adoption across the development pipeline. Our work includes exploring advanced binary analysis techniques for scenarios where source code is unavailable, enabling vulnerability detection, code provenance analysis, and risk assessment in closed-source or third-party components. This effort blends leadership in secure software engineering with a strong emphasis on data-driven tool evaluation and scalable automation.
   # description: Currently leading a team of 3-5 engineers in championing automated analysis techniques to improve software quality. My team has analyzed benchmarking data to determine the efficiency of various tools and how they can be best utilized. This also includes more specialized techniques such as examining the usage and effectiveness of binary analysis tools for scenarios where source code is not available to review
