@@ -3,7 +3,7 @@
 
 
 - project: Software Bill of Materials (SBOM)
-  role: Pricipal Investigator
+  role: Principal Investigator
   duration: Dec. 2023 &mdash; Present
   # url: "#"
   description: I led efforts to advance software supply chain security by investigating tools and techniques for generating and leveraging SBOM data within mission-critical environments. I developed a proof-of-concept toolchain to assess dependency quality and exposure risk through continuous integration pipelines, enabling early detection of vulnerable software elements. Drawing from this work, I now lead the development of institutional guidance for project level software supply chain risk management, using SBOM analytics and automated tooling to support compliance, transparency, and secure software deliveries throughout the development lifecycle.
