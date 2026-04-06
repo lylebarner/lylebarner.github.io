@@ -4,21 +4,21 @@
 
 - project: Software Bill of Materials (SBOM)
   role: Principal Investigator
-  duration: Dec. 2023 &mdash; Present
+  duration: Dec. 2023 &mdash; Mar. 2026
   # url: "#"
   description: I led efforts to advance software supply chain security by investigating tools and techniques for generating and leveraging SBOM data within mission-critical environments. I developed a proof-of-concept toolchain to assess dependency quality and exposure risk through continuous integration pipelines, enabling early detection of vulnerable software elements. Drawing from this work, I now lead the development of institutional guidance for project level software supply chain risk management, using SBOM analytics and automated tooling to support compliance, transparency, and secure software deliveries throughout the development lifecycle.
   # description: Investigating tools and techniques for generating SBOM data as it applies to the JPL mission software environment. The first phase of research focused on developing a proof-of-concept toolchain for analyzing dependency quality using continuous integration. In the second phase I'm leading the team in establishing recommended guidance for software supply chain risk management leveraging SBOM data.
 
 - project: Automated Analysis Techniques
   role: Lead Analyst
-  duration: Oct. 2018 &mdash; Present
+  duration: Oct. 2018 &mdash; Mar. 2026
   # url: "#"
   description: Currently leading a team of 3–5 engineers to deploy automated static and binary analysis initiatives aimed at enhancing software quality and security. We leverage benchmarking and performance metrics to evaluate tool effectiveness, optimize usage, and inform strategic adoption across the development pipeline. Our work includes exploring advanced binary analysis techniques for scenarios where source code is unavailable, enabling vulnerability detection, code provenance analysis, and risk assessment in closed-source or third-party components. This effort blends leadership in secure software engineering with a strong emphasis on data-driven tool evaluation and scalable automation.
   # description: Currently leading a team of 3-5 engineers in championing automated analysis techniques to improve software quality. My team has analyzed benchmarking data to determine the efficiency of various tools and how they can be best utilized. This also includes more specialized techniques such as examining the usage and effectiveness of binary analysis tools for scenarios where source code is not available to review
 
 - project: Secure Coding Guideline
   role: Principal Investigator
-  duration: Oct. 2018 &mdash; Present
+  duration: Oct. 2018 &mdash; Mar. 2026
   # url: "#"
   description: I spearheaded the development of an institutional-level Secure Coding Guideline, standardizing best practices across all mission-critical software development efforts. To enforce compliance, I built and tuned static code analysis pipelines, integrating custom rule sets to align with security policies and streamline DevSecOps workflows. Additionally, I performed threat intelligence analysis on vulnerability data from automated security scans, using risk prioritization and data-driven insights to surface critical issues and guide remediation strategies. This work enhanced software assurance, reduced attack surface, and supported secure software deployment at scale.
   # description: Combined NASA requirements and industry best practices to define institutional-level secure coding guidance to be used by all critical software development activities at JPL. This guideline leveraged custom static code analysis configurations to verify compliance and streamline deployment. This framework also establishes automated data collection and analysis to inform future revisions.
